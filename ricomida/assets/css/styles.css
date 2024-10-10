@@ -1,0 +1,53 @@
+.fontRicomida {
+    font-family: "Lobster";
+    font-size: 2rem;
+}
+
+.fontPagina{
+    font-family: "Cabin";
+}
+
+.navbar {
+    background-color: #373A3C !important;
+}
+
+.pesoImagen {
+    height: auto;
+    max-width: 25%;
+}
+
+.carruselMargen {
+    margin: 2rem;
+}
+
+
+
+
+
+ul {
+    list-style-type: none;
+}
+
+.pruebaFuente {
+    font-size: 1rem;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.colorArticle {
+    background-color: #DC3545;
+    color: #FFFFFF;
+    height: 350px;
+    padding-top: 150px;
+}
+
+footer {
+    background-color: #373A3C;
+    color: #FFFFFF;
+    font-family: "Lobster";
+    text-align: center;
+    padding-top: 50px;
+    height: 100%;
+}
